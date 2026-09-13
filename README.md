@@ -2,7 +2,7 @@
 
 An interactive **R Shiny** Clinical Decision Support System (CDSS) designed for physical therapists and renal care teams to safely evaluate, prescribe, and monitor exercise rehabilitation for Chronic Kidney Disease (CKD) patients.
 
-![CDSS Interface Screenshot](screenshot.png)
+![CDSS Interface Screenshot](Screenshot.png)
 
 ------------------------------------------------------------------------
 
